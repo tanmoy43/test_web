@@ -1,0 +1,13 @@
+#shuffle > div {
+    float: left;
+    line-height: 30px;
+    width: 30px;
+    text-align: center;
+    background-color: steelblue;
+    color: #fff;
+    border-radius: 4px;
+    margin: 3px;
+}
+#shuffle {
+    max-width: 360px;
+}
